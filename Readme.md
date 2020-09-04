@@ -1,6 +1,6 @@
-# My name is Zhagparov Daniar
+# Akashi23
 
-#### I live in Almaty :house:, I'm a student at University :school: in last year :book: and I want to become TechLead Developer as soon as posible.
+#### I'm a student at University :school: in last year :book: and I want to become TechLead Developer as soon as posible.
 #### Why? I have several reasons :thought_balloon:
 
   - Because i want to know what is be Techlead  :muscle:
