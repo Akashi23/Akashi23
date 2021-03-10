@@ -1,7 +1,5 @@
 # Akashi23
 
-#### I'm a student at University :school: in last year :book:
-
 #### I use several programming language in my projects :pencil:
 
 * Of course Python because I like Python :crown: and use for web and data analysis.<img src="https://github.com/Akashi23/Akashi23/blob/master/assets/python.png">
