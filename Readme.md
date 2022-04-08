@@ -1,4 +1,4 @@
-# Akashi23
+# Zhagparov Diniyar
 
 #### I use several programming language in my projects :pencil:
 
